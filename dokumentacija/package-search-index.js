@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ba.unsa.pmf.candy.crush.grafika"},{"l":"ba.unsa.pmf.candy.crush.konzola"},{"l":"ba.unsa.pmf.candy.crush.logika"}];updateSearchResults();
